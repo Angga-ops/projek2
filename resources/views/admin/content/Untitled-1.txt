@@ -1,0 +1,1 @@
+{{ url('/admin/produk/edit/'.$detail_produk->id_produk) }}
